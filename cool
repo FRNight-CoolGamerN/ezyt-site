@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "EZYT site first deploy"
+git branch -M main
+git remote add origin https://github.com/YOURNAME/ezyt-site.git
+git push -u origin main
